@@ -10,10 +10,10 @@ Durasi ideal: **6–8 bulan**, dengan progres mingguan yang terukur dan project 
 **🎯 Tujuan:** Pahami sintaks, tipe data, struktur kontrol, dan dasar logika program.
 
 **📘 Materi:**
-- [ ] Basic Syntax & Structure
-- [ ] Data Types & Variables
-- [ ] Conditionals (if/switch)
-- [ ] Loops (for/while)
+- [x] Basic Syntax & Structure
+- [x] Data Types & Variables
+- [x] Conditionals (if/switch)
+- [x] Loops (for/while)
 - [ ] Arrays & Type Casting
 - [ ] Strings & Methods
 - [ ] File I/O sederhana
