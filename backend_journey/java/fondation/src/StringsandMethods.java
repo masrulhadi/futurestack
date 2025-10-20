@@ -20,7 +20,7 @@ public class StringsandMethods {
         System.out.println(fakultas == faculty);
 
         System.out.println("======================================");
-        
+
         // contoh new String dan equals
         String jabatan = new String("manager");
         String posisi = new String("manager");
@@ -37,5 +37,13 @@ public class StringsandMethods {
         System.out.println("a == c      : " + (a == c));
         System.out.println("a == d      : " + (a == d));
         System.out.println("a.equals(c) : " + a.equals(c));
+
+        // contoh implementasi lainnya
+        String teks = "Java Developer";
+        System.out.println(teks.toUpperCase());
+        System.out.println(teks.substring(0, 4));
+        System.out.println(teks.replace("Java", "Kotlin"));
+        System.out.println(teks.contains("Dev"));
+        System.out.println(teks.charAt(2));
     }
 }
