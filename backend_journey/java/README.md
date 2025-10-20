@@ -14,7 +14,7 @@ Durasi ideal: **6–8 bulan**, dengan progres mingguan yang terukur dan project 
 - [x] Data Types & Variables
 - [x] Conditionals (if/switch)
 - [x] Loops (for/while)
-- [ ] Arrays & Type Casting
+- [x] Arrays & Type Casting
 - [ ] Strings & Methods
 - [ ] File I/O sederhana
 - [ ] Program Lifecycle
