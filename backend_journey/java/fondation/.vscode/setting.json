@@ -3,5 +3,10 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
-    ]
+    ],
+    "wrap": "on",
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 100,
+    "editor.rulers": [100],
+    "editor.wrappingIndent": "same"
 }
